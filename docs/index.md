@@ -62,17 +62,14 @@ layout: default
 
 <h3>Goals</h3>
 <ul class="goals">
-    <li>Improve every day through continuous education</li>
-    <li>Promote positive emotions and behaviors using creativity and technology</li>
+    <li>Learn something every day through awareness and continuous education</li>
+    <li>Promote positive diet and habits using mindfulness and kindness</li>
 </ul>
 
 <h3 class="long-border">Education</h3>
 <ul class="education">
     <li class="education-item">MIT Chemical Engineering, 2015</li>
-    <li class="education-item">Ongoing: MIT OCW Course 6-3 Curriculum</li>
 </ul>
-
-<h3 class="long-border"><a href="https://cc4033.github.io">Personal Work Portfolio</a></h3>
 
 <h3 class="long-border">Work Experience</h3>
 <p class="work-title">Global Network Modeler, <span class="work-date">06/2017 - Present</span></p>
