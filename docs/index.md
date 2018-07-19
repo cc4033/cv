@@ -67,4 +67,14 @@ layout: default
 <p>I have found my communities in the city through playing pickup basketball and soccer, cultivating my Zen practice, and exploring food experiences and night life.</p>
 
 <h3 class="long-border">Education</h3>
-<p class="plain-text">I applied to MIT believing that I wanted to study Chemical Engineering. I enjoyed the rigor of the classes, and I thrived academically, graduating with a 4.9/5.0 GPA. My introduction to campus was through the soccer team, arriving early for pre-season conditioning and pasta nights before games. I picked up jobs Tech Calling, grading papers for my favorite professors, and researching clean water applications.</p>
+<p class="plain-text">I applied to MIT believing that I wanted to study Chemical Engineering. I enjoyed the rigor of the classes, and I thrived academically, graduating with a 4.9/5.0 GPA. My favorite classes involved working in a team and working together to achieve a common goal.</p>
+<p>My introduction to campus was through the soccer team, arriving early for pre-season conditioning and pasta nights before games.</p>
+<p>On campus, I picked up jobs Tech Calling, grading papers for my favorite professors, and researching clean water applications.</p>
+
+<h3 class="long-border">Work Experience</h3>
+<p class="plain-text">During school, I held internships where I got to learn about manufacturing, product design, research and experimentation, and robotics and prototyping. At my senior career fair, I paired with ExxonMobil and chose them looking to apply my chemical engineering background and ultimately enjoy a secure career.</p>
+<p>I started this career as a Business Lead on a software project where my teammates and I built several equipment design applications. I designed the logic flows and UI and collaborated with the software developers to get them to actually work.</p>
+<p>Right now, I am a supply chain network modeler. In between collecting data and defining expectations with clients and presenting results to those that can excute changes, I analyze data and run scenarios to save money in the supply chain.</p>
+
+<h3 class="long-border">Goals and Whole Foods 365</h3>
+<p class="plain-text"></p>
