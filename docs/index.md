@@ -61,8 +61,10 @@ layout: default
 </style>
 
 <h3>About</h3>
-<p class="plain-text">Hey there! I was born in Durham, NC, grew up in Plano, TX, and finished high school in Columbia, MD. During that time, I loved doing well in school, playing soccer, and building relationships with my friends and family. When In 2011, I graduated from Long Reach High School and set off for MIT. There, I studied chemical engineering, played on the soccer team, and developed my interpersonal and teamwork skill set.</p>
-<p class="about-text">In 2015, I moved to Houston, Texas to start a career with ExxonMobil. During my career, I have worked alongside peers and senior leaders, solved complex technical problems, and learned as much about the systems and culture of the company as I could. I have found my communities in the city through playing pickup basketball and soccer, cultivating my Zen practice, and exploring food experiences and night life.</p>
+<p class="plain-text">Hey there! I was born in Durham, NC, grew up in Plano, TX, and finished high school in Columbia, MD. During that time, I loved doing well in school, playing soccer, and building relationships with my friends and family.</p>
+<p>In 2011, I graduated from Long Reach High School and set off for MIT. There, I studied chemical engineering, played on the soccer team, and developed my interpersonal and teamwork skill set.</p>
+<p class="about-text">In 2015, I moved to Houston, Texas to start a career with ExxonMobil. During my career, I have worked alongside peers and senior leaders, solved complex technical problems, and learned as much about the systems and culture of the company as I could.</p>
+<p>I have found my communities in the city through playing pickup basketball and soccer, cultivating my Zen practice, and exploring food experiences and night life.</p>
 
 <h3 class="long-border">Education</h3>
 <p class="plain-text">I applied to MIT believing that I wanted to study Chemical Engineering. I enjoyed the rigor of the classes, and I thrived academically, graduating with a 4.9/5.0 GPA. My introduction to campus was through the soccer team, arriving early for pre-season conditioning and pasta nights before games. I picked up jobs Tech Calling, grading papers for my favorite professors, and researching clean water applications.</p>
