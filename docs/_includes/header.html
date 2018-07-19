@@ -4,7 +4,7 @@
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <!-- changed from a to h2 -->
-    <h1 class="site-title"><strong>{{ site.title | escape }}</strong></h1>
+    <h1 class="site-title" style="font-size:20px">{{ site.title | escape }}</h1>
   
     {% if page_paths %}
       <nav class="site-nav">
