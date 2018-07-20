@@ -66,6 +66,8 @@ layout: default
 
 </style>
 
+<img src="big-shot.PNG" alt="picture of me at discovery green in houston wearing a black history month shirt" style="width:60%"></img>
+
 <h3>About</h3>
 <p class="plain-text">Hey there! I was born in Durham, NC, grew up in Plano, TX, and finished high school in Columbia, MD. During that time, I loved doing well in school, playing soccer, building relationships with my friends and family, and working as a tutor and in retail.</p>
 <p>In 2011, I graduated from Long Reach High School and set off for MIT. There, I studied chemical engineering, played on the soccer team, and developed my interpersonal and teamwork skill set.</p>
