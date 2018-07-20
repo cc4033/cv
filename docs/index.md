@@ -96,7 +96,7 @@ layout: default
 
 <div class="food-pic">
 <img src="eggplant-for-baba.JPG" alt="roasted eggplant to be used to make baba ganoush" style="width:80%">
-<div class="container">
+<div class="container" style="width:80%">
     <p>I roasted this eggplant to make baba ganoush. This dip is so easy and incredibly flavorful that I do it whenever I can find organic eggplants.</p>
   </div>
 </div>
