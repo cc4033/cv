@@ -11,15 +11,7 @@ layout: default
         font-size: 22px;
   }
 
-<<<<<<< HEAD
-  li {
-      margin-bottom: 7px;
-  }
-
-  .goals {
-=======
   .about {
->>>>>>> origin/master
         margin-top: 0px;
   }
 
@@ -74,64 +66,6 @@ layout: default
   }
 </style>
 
-<<<<<<< HEAD
-<h3>Goals</h3>
-<ul class="goals">
-    <li>Use mindfulness, computer science, and technology to promote positive behaviors and emotions</li>
-    <li>Develop expertise in mindfulness, physical fitness, and computer science</li>
-</ul>
-
-<h3 class="long-border">Education</h3>
-<ul class="education">
-    <li class="education-item"><b>MIT Chemical Engineering,</b> 2015</li>
-    <li class="education-item">Studying computer science at  <a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/">ocw.mit.edu</a></li>
-</ul>
-
-<h3 class="long-border single-header"><a href="https://cc4033.github.io">Personal Portfolio</a></h3>
-
-<h3 class="long-border">Work Experience</h3>
-<p class="work-title">Global Network Modeler, <span class="work-date">06/2017 - Present</span></p>
-<p class="work-company">ExxonMobil Refining & Supply – Midstream – Global Lubricants Operations</p>
-<ul class="work-activities">
-    <li class="work-activities-item">Applied supply chain and finance fundamentals to cost-saving initiatives</li>
-    <li class="work-activities-item">Presented results of data manipulation and modeling services to shareholders</li>
-</ul>
-
-<p class="work-title">Business Lead: Pegasys Replacement Project, <span class="work-date">10/2015 - 06/2017</span></p>
-<p class="work-company">ExxonMobil Research & Engineering – Projects – Project Development</p>
-<ul class="work-activities">
-    <li class="work-activities-item">Translated manufacturing equipment design practices to development ready specification</li>
-    <li class="work-activities-item">Resolved defects by writing automated tests, performing exploratory tesing, and managing user readiness testing</li>
-</ul>
-
-<p class="work-title">Process Designer: Joliet Crude Expansion Project - Hydrodesulfurization Unit, <span class="work-date">07/2015 - 10/2015</span></p>
-<p class="work-company">ExxonMobil Research & Engineering – Projects – Project Development</p>
-<ul class="work-activities">
-    <li class="work-activities-item">Simplified detailed unit drawings to readable diagram and updated based on team process design initiatives</li>
-    <li class="work-activities-item">Designed virtual pressure profile of heat exchanger rundown network using field data and isometric drawings</li>
-</ul>
-
-<p class="work-title">Chemical Engineer: Sacramento Plant, <span class="work-date">06/2014 - 08/2014</span></p>
-<p class="work-company">Procter & Gamble – Engineering - Manufacturing</p>
-<ul class="work-activities">
-    <li class="work-activities-item">Work activity 1</li>
-    <li class="work-activities-item">Work activity 2</li>
-</ul>
-
-<p class="work-title">Undergraduate Researcher: Electrodialysis and Reverse Osmosis, <span class="work-date">06/2013 - 05/2015</span></p>
-<p class="work-company">MIT Center for Clean Water and Energy</p>
-<ul class="work-activities">
-    <li class="work-activities-item">Work activity 1</li>
-    <li class="work-activities-item">Work activity 2</li>
-</ul>
-
-<p class="work-title">Lab Intern: Robotics, Prosthetics, Medical, <span class="work-date">06/2012 - 08/2012</span></p>
-<p class="work-company">Johns Hopkins Applied Physics Lab</p>
-<ul class="work-activities">
-    <li class="work-activities-item">Work activity 1</li>
-    <li class="work-activities-item">Work activity 2</li>
-</ul>
-=======
 <h3>About</h3>
 <p class="plain-text">Hey there! I was born in Durham, NC, grew up in Plano, TX, and finished high school in Columbia, MD. During that time, I loved doing well in school, playing soccer, building relationships with my friends and family, and working as a tutor and in retail.</p>
 <p>In 2011, I graduated from Long Reach High School and set off for MIT. There, I studied chemical engineering, played on the soccer team, and developed my interpersonal and teamwork skill set.</p>
@@ -153,4 +87,3 @@ layout: default
 <p>Craving some peace in my corporate days, I turned to a Zen practice, which is actually a mile away from the Whole Foods 365 at Independence Heights. The next year in very quick succession, my friend let me borrow a book called Healing with Whole Foods and my coworker went vegan. Reading about the benefits of an organic, whole food, plant-based diet and how it naturally increases mood and mindfulness resonated directly with my Zen practice. My coworker was insisting I try her recipes, and I decided to make everything from scratch to craft the most mindfully curated and delicious meal. The produce and bulk aisles of Whole Foods have basically been my second home since then.</p>
 <p>By changing my diet - I was vegan for a while but am now plant-based with responsibe animal products - I have been able to see the impact of eating food from Whole Foods has had on my life. I have been on this journey for about a year now, and I have seen the happiness and clean energy that it has afforded me. My purpose is now to impact people's lives as mine was now that I have begun to understand proper nourishment, for myself and the planet.</p>
 <p>I am thrilled at the chance to join the inaugural team at Whole Foods 365 Independence Heights. I want to learn as much as I can about how the store runs, and I would love to help shape the character of a brand new store. Whole Foods has made healthy living easy for me, and now I want to help others do the same.</p>
->>>>>>> origin/master
