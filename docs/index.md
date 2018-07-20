@@ -64,16 +64,16 @@ layout: default
       padding-bottom: 0px;
       padding-top: 19px;
 
-    body {margin:25px;}
+  body {margin:25px;}
 
-  div.food-pic {
+  .food-pic {
     width: 80%;
     background-color: white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
     }
 
-  div.container {
+  .container {
     text-align: center;
     padding: 10px 20px;
     }
