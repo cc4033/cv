@@ -91,7 +91,7 @@ layout: default
 <h3 class="long-border">Some of My Meals</h3>
 
 
-<img src="egg-scramble.jpg" alt="ham, onions, peppers, and egg scramble in cast iron skillet in oven">
+<img src="egg-scramble.JPG" alt="ham, onions, peppers, and egg scramble in cast iron skillet in oven">
 <img src="eggplant-for-baba.jpg" alt="roasted eggplant to be used to make baba ganoush">
 <img src="homemade-bowl.jpg" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl">
 <img src="jamaican-patties.jpg" alt="golden-brown jamaican patties fresh out the oven">
