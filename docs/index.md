@@ -88,6 +88,8 @@ layout: default
 <p>By changing my diet - I was vegan for a while but am now plant-based with responsibe animal products - I have been able to see the impact of eating food from Whole Foods has had on my life. I have been on this journey for about a year now, and I have seen the happiness and clean energy that it has afforded me. My purpose is now to impact people's lives as mine was now that I have begun to understand proper nourishment, for myself and the planet.</p>
 <p>I am thrilled at the chance to join the inaugural team at Whole Foods 365 Independence Heights. I want to learn as much as I can about how the store runs, and I would love to help shape the character of a brand new store. Whole Foods has made healthy living easy for me, and now I want to help others do the same.</p>
 
+<h3 class="long-border">Some of my Meals</h3>
+
 <img src="/food-pics/egg-scramble.jpg" alt="ham, onions, peppers, and egg scramble in cast iron skillet in oven">
 <img src="/food-pics/eggplant-for-baba.jpg" alt="roasted eggplant to be used to make baba ganoush">
 <img src="/food-pics/homemade-bowl.jpg" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl">
