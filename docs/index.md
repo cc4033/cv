@@ -105,7 +105,7 @@ layout: default
 
 <div class="food-pic">
 <img src="homemade-bowl.JPG" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl" style="width:80%">
-<div class="container">
+<div class="container" style="width:80%">
     <p>I love how eating whole foods like this homemade bowl make me feel. I like to cook my black beans from scratch to customize their flavor by adding different ingredients at different times.</p>
   </div>
 </div>
@@ -114,7 +114,7 @@ layout: default
 
 <div class="food-pic">
 <img src="jamaican-patties.JPG" alt="golden-brown jamaican patties fresh out the oven" style="width:80%">
-<div class="container">
+<div class="container" style="width:80%">
     <p>I made two different fillings for these Jamaican patties, one corn and black beans and the other potato curry. I like to make these in big batches for my friends because they take some time and clean up.</p>
   </div>
 </div>
@@ -123,7 +123,7 @@ layout: default
 
 <div class="food-pic">
 <img src="rice-salmon-peppers.JPG" alt="rice in the pot, salmon on a cutting board, peppers on a serving dish" style="width:80%">
-<div class="container">
+<div class="container" style="width:80%">
     <p>When I am more active, I eat animal protein to help my body recover quickly. I usually choose fish, and I have been experimenting with fish other than salmon to give my body some variety.</p>
   </div>
 </div>
@@ -132,7 +132,7 @@ layout: default
 
 <div class="food-pic">
 <img src="vegan-taco.JPG" alt="toasted soft taco shell with avocado, corn, beans, tomatoes, and sweet potatoes, topped with cilantro" style="width:80%">
-<div class="container">
+<div class="container" style="width:80%">
     <p>It's hard to see in this picture, but I love slow cooking potatoes with a recipe I learned from <i>The Food Lab</i> by Kenji Lopez Alt. They come out extra sweet and crunchy, and they make a great base for tacos!</p>
   </div>
 </div>
