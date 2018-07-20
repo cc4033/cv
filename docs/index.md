@@ -90,11 +90,22 @@ layout: default
 
 <h3 class="long-border">Some of My Meals</h3>
 
-
-<img src="egg-scramble.JPG" alt="ham, onions, peppers, and egg scramble in cast iron skillet in oven">
-<img src="eggplant-for-baba.JPG" alt="roasted eggplant to be used to make baba ganoush">
-<img src="homemade-bowl.JPG" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl">
-<img src="jamaican-patties.JPG" alt="golden-brown jamaican patties fresh out the oven">
-<img src="rice-salmon-peppers.JPG" alt="rice in the pot, salmon on a cutting board, peppers on a serving dish">
-<img src="vegan-taco.JPG" alt="toasted soft taco shell with avocado, corn, beans, tomatoes, and sweet potatoes, topped with cilantro">
-
+<div class="food-pic">
+<img src="egg-scramble.JPG" alt="ham, onions, peppers, and egg scramble in cast iron skillet in oven"
+width="300" height="300">
+</div>
+<div class="food-pic">
+<img src="eggplant-for-baba.JPG" alt="roasted eggplant to be used to make baba ganoush" width="300" height="300">
+</div>
+<div class="food-pic">
+<img src="homemade-bowl.JPG" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl" width="300" height="300">
+</div>
+<div class="food-pic">
+<img src="jamaican-patties.JPG" alt="golden-brown jamaican patties fresh out the oven" width="300" height="300">
+</div>
+<div class="food-pic">
+<img src="rice-salmon-peppers.JPG" alt="rice in the pot, salmon on a cutting board, peppers on a serving dish" width="300" height="300">
+</div>
+<div class="food-pic">
+<img src="vegan-taco.JPG" alt="toasted soft taco shell with avocado, corn, beans, tomatoes, and sweet potatoes, topped with cilantro" width="300" height="300">
+</div>
