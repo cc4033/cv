@@ -63,7 +63,20 @@ layout: default
   .single-header {
       padding-bottom: 0px;
       padding-top: 19px;
-  }
+
+    body {margin:25px;}
+
+    div.food-pic {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    }
+
+    div.container {
+    text-align: center;
+    padding: 10px 20px;
+    }
 </style>
 
 <h3>About</h3>
@@ -91,22 +104,44 @@ layout: default
 <h3 class="long-border">Some of My Meals</h3>
 
 <div class="food-pic">
-<img src="eggplant-for-baba.JPG" alt="roasted eggplant to be used to make baba ganoush" width="300" height="300">
-<p>I roasted this eggplant to make baba ganoush. This is so easy and incredibly flavorful that I do it whenever I can find organic eggplants.</p>
+<img src="eggplant-for-baba.JPG" alt="roasted eggplant to be used to make baba ganoush" style="width:100%">
+<div class="container">
+    <p>I roasted this eggplant to make baba ganoush. This is so easy and incredibly flavorful that I do it whenever I can find organic eggplants.</p>
+  </div>
 </div>
+
+<br>
+
 <div class="food-pic">
-<img src="homemade-bowl.JPG" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl" width="300" height="300">
-<p>I love how eating whole foods like this homemade bowl make me feel. I like to cook my black beans from scratch to customize their flavor by adding different ingredients at different times.</p>
+<img src="homemade-bowl.JPG" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl" style="width:100%">
+<div class="container">
+    <p>I love how eating whole foods like this homemade bowl make me feel. I like to cook my black beans from scratch to customize their flavor by adding different ingredients at different times.</p>
+  </div>
 </div>
+
+<br>
+
 <div class="food-pic">
-<img src="jamaican-patties.JPG" alt="golden-brown jamaican patties fresh out the oven" width="300" height="300">
-<p>I made two different fillings for these Jamaican patties, one corn and black beans and the other potato curry. I like to make these for my friends because they take some time and clean up.</p>
+<img src="jamaican-patties.JPG" alt="golden-brown jamaican patties fresh out the oven" style="width:100%">
+<div class="container">
+    <p>I made two different fillings for these Jamaican patties, one corn and black beans and the other potato curry. I like to make these for my friends because they take some time and clean up.</p>
+  </div>
 </div>
+
+<br>
+
 <div class="food-pic">
-<img src="rice-salmon-peppers.JPG" alt="rice in the pot, salmon on a cutting board, peppers on a serving dish" width="300" height="300">
-<p>When I am more active, I eat animal protein to help my body recover quickly. I usually choose fish, and I have been experimenting with fish other than salmon to give my body some variety.</p>
+<img src="rice-salmon-peppers.JPG" alt="rice in the pot, salmon on a cutting board, peppers on a serving dish" style="width:100%">
+<div class="container">
+    <p>When I am more active, I eat animal protein to help my body recover quickly. I usually choose fish, and I have been experimenting with fish other than salmon to give my body some variety.</p>
+  </div>
 </div>
+
+<br>
+
 <div class="food-pic">
-<img src="vegan-taco.JPG" alt="toasted soft taco shell with avocado, corn, beans, tomatoes, and sweet potatoes, topped with cilantro" width="300" height="300">
-<p>It's hard to see in this picture, but I love slow cooking potatoes with a recipe I learned from <i>The Food Lab</i> by Kenji Lopez Alt. They come out extra sweet and crunchy, and they make a great base for tacos.</p>
+<img src="vegan-taco.JPG" alt="toasted soft taco shell with avocado, corn, beans, tomatoes, and sweet potatoes, topped with cilantro" style="width:100%">
+<div class="container">
+    <p>It's hard to see in this picture, but I love slow cooking potatoes with a recipe I learned from <i>The Food Lab</i> by Kenji Lopez Alt. They come out extra sweet and crunchy, and they make a great base for tacos.</p>
+  </div>
 </div>
