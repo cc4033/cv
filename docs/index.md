@@ -64,19 +64,6 @@ layout: default
       padding-bottom: 0px;
       padding-top: 19px;
 
-  body {margin:25px;}
-
-  .food-pic {
-    width: 80%;
-    background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    margin-bottom: 25px;
-    }
-
-  .container {
-    text-align: center;
-    /*padding: 10px 20px;*/
-    }
 </style>
 
 <h3>About</h3>
@@ -103,6 +90,8 @@ layout: default
 
 <h3 class="long-border">Some of My Meals</h3>
 
+<br>
+
 <div class="food-pic">
 <img src="eggplant-for-baba.JPG" alt="roasted eggplant to be used to make baba ganoush" style="width:80%">
 <div class="container">
@@ -114,8 +103,8 @@ layout: default
 
 <div class="food-pic">
 <img src="homemade-bowl.JPG" alt="guacamole, kale and tomato salad, quinoa, black beans and onions, together in a bowl" style="width:80%">
-<div>
-    <p class="container">I love how eating whole foods like this homemade bowl make me feel. I like to cook my black beans from scratch to customize their flavor by adding different ingredients at different times.</p>
+<div class="container">
+    <p>I love how eating whole foods like this homemade bowl make me feel. I like to cook my black beans from scratch to customize their flavor by adding different ingredients at different times.</p>
   </div>
 </div>
 
